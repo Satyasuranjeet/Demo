@@ -11,9 +11,13 @@ class lopa{
     }
     int product(){
         return j*k;
-
-
     }
+    int sub(){
+        return k-j;
+    }
+
+
+    
 
 }
 public class Q1{
