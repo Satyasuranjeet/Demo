@@ -18,7 +18,9 @@ class lopa{
     void print(){
         System.out.println("Satya");
     }
-
+    int division(){
+        return k%j;
+    }
 }
 public class Q1{
     public static void main(String args[]){
