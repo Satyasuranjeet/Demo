@@ -11,9 +11,12 @@ class lopa{
     }
     int product(){
         return j*k;
-
-
     }
+    void print(){
+        System.out.println("Satya");
+    }
+
+
 
 }
 public class Q1{
