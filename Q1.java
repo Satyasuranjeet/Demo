@@ -14,7 +14,15 @@ class lopa {
 
     int product() {
         return j * k;
-
+    }
+    int product(){
+        return j*k;
+    }
+    int sub(){
+        return k-j;
+    }
+    void print(){
+        System.out.println("Satya");
     }
 
     int div() {
